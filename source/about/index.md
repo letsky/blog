@@ -7,12 +7,16 @@ date: 2023-06-28 16:28:33
 
 双鱼座、沪漂、程序员
 
-养了四只猫，分别是：
+养了三只猫，分别是：
 
 泡芙
 
-![泡芙](http://img.letsky.cn/DSC03527.JPEG)
+英国长毛猫，银渐层
+
+![泡芙](https://oss.letsky.cn/cats/paofu.jpg)
 
 奶盖
 
-![奶盖](http://img.letsky.cn/IMG_4271.JPEG)
+中华田园猫，小区流浪猫
+
+![奶盖](https://oss.letsky.cn/cats/naigai.jpg)
