@@ -24,7 +24,7 @@ abab@^2.0.6:
 
 abbrev@^1.1.1:
   version "1.1.1"
-  resolved "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz"
+  resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
 abbrev@^2.0.0:
@@ -282,7 +282,7 @@ cssstyle@^2.3.0:
 
 cuid@^2.1.4:
   version "2.1.8"
-  resolved "https://registry.npmjs.org/cuid/-/cuid-2.1.8.tgz"
+  resolved "https://registry.yarnpkg.com/cuid/-/cuid-2.1.8.tgz#cbb88f954171e0d5747606c0139fb65c5101eac0"
   integrity sha512-xiEMER6E7TlTPnDxrM4eRiC6TRgjNX9xzEZ5U/Se2YJKr7Mq4pJn/2XEHjl3STcSh96GmkHPcBXLES8M29wyyg==
 
 data-urls@^3.0.2:
@@ -599,14 +599,14 @@ hexo-cli@^4.3.0:
 
 hexo-front-matter@^3.0.0:
   version "3.0.0"
-  resolved "https://registry.npmjs.org/hexo-front-matter/-/hexo-front-matter-3.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/hexo-front-matter/-/hexo-front-matter-3.0.0.tgz#b9a473c6cb910c73f9fea49f506e98540fcea6cb"
   integrity sha512-hSQTPUmB/BCe1BFYmXRkPyLk8rqbBqHCQq+rjwwOJuEfOADrFaVK2VPZb90tJzPyXE1xSxpgCxE/AZq0CyTVwg==
   dependencies:
     js-yaml "^4.1.0"
 
 hexo-fs@^3.1.0:
   version "3.1.0"
-  resolved "https://registry.npmjs.org/hexo-fs/-/hexo-fs-3.1.0.tgz"
+  resolved "https://registry.yarnpkg.com/hexo-fs/-/hexo-fs-3.1.0.tgz#2052ff72c68cda2c577a87aa0ea7980ae503fa99"
   integrity sha512-SfoDH7zlU9Iop+bAfEONXezbNIkpVX1QqjNCBYpapilZR+xVOCfTEdlNixanrKBbLGPb2fXqrdDBFgrKuiVGQQ==
   dependencies:
     bluebird "^3.5.1"
@@ -654,14 +654,14 @@ hexo-generator-tag@^2.0.0:
 
 hexo-i18n@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/hexo-i18n/-/hexo-i18n-1.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/hexo-i18n/-/hexo-i18n-1.0.0.tgz#7983fb3a313e90615b84dd8fa946a71c489ef5bd"
   integrity sha512-yw90JHr7ybUHN/QOkpHmlWJj1luVk5/v8CUU5NRA0n4TFp6av8NT7ujZ10GDawgnQEdMHnN5PUfAbNIVGR6axg==
   dependencies:
     sprintf-js "^1.0.3"
 
 hexo-log@^3.0.0, hexo-log@^3.2.0:
   version "3.2.0"
-  resolved "https://registry.npmjs.org/hexo-log/-/hexo-log-3.2.0.tgz"
+  resolved "https://registry.yarnpkg.com/hexo-log/-/hexo-log-3.2.0.tgz#958c8ea681f7575afcd554f39c8e09f46461d317"
   integrity sha512-fk7jOW3hvKiAv4Q/d8UxaQlARwcv+5KjGcnxexUrqBqyWbMCLmw7jhMHTSRLNNQpaoTlF5ff+kQkPi4yhp9iag==
   dependencies:
     picocolors "^1.0.0"
@@ -751,7 +751,7 @@ hexo-util@^3.1.0:
 
 hexo@^6.3.0:
   version "6.3.0"
-  resolved "https://registry.npmjs.org/hexo/-/hexo-6.3.0.tgz"
+  resolved "https://registry.yarnpkg.com/hexo/-/hexo-6.3.0.tgz#10c940aaf86e2fbaf8a0db7cb79fc1fe4d6e1180"
   integrity sha512-4Jq+rWd8sYvR1YdIQyndN/9WboQ/Mqm6eax8CjrjO+ePFm2oMVafSOx9WEyJ42wcLOHjfyMfnlQhnUuNmJIpPg==
   dependencies:
     abbrev "^1.1.1"
@@ -1059,7 +1059,7 @@ minimist@^1.2.5:
 
 moize@^6.1.0:
   version "6.1.6"
-  resolved "https://registry.npmjs.org/moize/-/moize-6.1.6.tgz"
+  resolved "https://registry.yarnpkg.com/moize/-/moize-6.1.6.tgz#ac2e723e74b951875fe2c0c3433405c2b098c3e6"
   integrity sha512-vSKdIUO61iCmTqhdoIDrqyrtp87nWZUmBPniNjO0fX49wEYmyDO4lvlnFXiGcaH1JLE/s/9HbiK4LSHsbiUY6Q==
   dependencies:
     fast-equals "^3.0.1"
@@ -1299,7 +1299,7 @@ resolve@^1.20.0, resolve@^1.22.0:
 
 rfdc@^1.1.4:
   version "1.3.0"
-  resolved "https://registry.npmjs.org/rfdc/-/rfdc-1.3.0.tgz"
+  resolved "https://registry.yarnpkg.com/rfdc/-/rfdc-1.3.0.tgz#d0b7c441ab2720d05dc4cf26e01c89631d9da08b"
   integrity sha512-V2hovdzFbOi77/WajaSMXk2OLm+xNIeQdMMuB7icj7bk6zi2F8GGAxigcnDFpJHbNyNcgyJDiP+8nOrY5cZGrA==
 
 safe-buffer@5.1.2:
@@ -1386,9 +1386,9 @@ source-map@~0.6.1:
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
 sprintf-js@^1.0.3:
-  version "1.1.2"
-  resolved "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.1.2.tgz"
-  integrity sha512-VE0SOVEHCk7Qc8ulkWw3ntAzXuqf7S2lvwQaDLRnUeIEaKNQJzV6BwmLKhOqT61aGhfUMrXeaBk+oDGCzvhcug==
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.1.3.tgz#4914b903a2f8b685d17fdf78a70e917e872e444a"
+  integrity sha512-Oo+0REFV59/rz3gfJNKQiBlwfHaSESl1pcGyABQsnnIfWOFt6JNj5gCog2U6MLZ//IGYD+nA8nI+mTShREReaA==
 
 statuses@2.0.1:
   version "2.0.1"
@@ -1554,7 +1554,7 @@ w3c-xmlserializer@^4.0.0:
 
 warehouse@^4.0.2:
   version "4.0.2"
-  resolved "https://registry.npmjs.org/warehouse/-/warehouse-4.0.2.tgz"
+  resolved "https://registry.yarnpkg.com/warehouse/-/warehouse-4.0.2.tgz#5ea59381c59e2187bcd77d25d8a628b1e1ffc53d"
   integrity sha512-GixS7SolBGu81rnxYM6bScxdElLM97Jx/kr0a6B6PGBWFqvHeuWFj7QbgEX1YWZSxiJt/aR6dBVQKC/PvvihdQ==
   dependencies:
     bluebird "^3.2.2"
